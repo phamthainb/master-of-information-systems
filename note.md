@@ -2,3 +2,4 @@
 - ./venv/bin/pip install scikit-learn
 - ./venv/bin/python main.py
 - 1
+- 2
