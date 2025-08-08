@@ -1,0 +1,3 @@
+- python3 -m venv venv -> Python 3.12.4
+- ./venv/bin/pip install scikit-learn
+- ./venv/bin/python main.py
